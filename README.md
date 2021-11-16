@@ -53,3 +53,6 @@ Please note that for this project there was no work done in the jupyter notebook
 
 The plot of the solution model looks as follows:
 ![Training Plot](./training_plot_solution.png)
+
+
+For a DETAILED report check out `report_project3.pdf`.
